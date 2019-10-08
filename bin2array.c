@@ -129,7 +129,7 @@ int main(int argc, char * argv[])
     }
     fprintf(fout, "};\n");
     fclose(fout);
-
     free(text);
+    return 0;
 }
 
