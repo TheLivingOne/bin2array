@@ -3,6 +3,7 @@
 // Compilation: gcc|clang|etc -O3 bin2array.c -o bin2array
 // (C) Sergey A. Galin, 2019, sergey.galin@gmail.com, sergey.galin@yandex.ru
 // This file is a Public Domain.
+// https://github.com/TheLivingOne/bin2array/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
